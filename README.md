@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 💻 Student at [42 Madrid](https://www.42madrid.com)
 
-- 📫 How to reach me **Email: [alvaro.v20@hotmail.com](mailto:alvaro.v20@hotmail.com)
+- 📫 How to reach me: [alvaro.v20@hotmail.com](mailto:alvaro.v20@hotmail.com)
 
 ## My stats
 
