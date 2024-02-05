@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ## My stats
 
+<div>
+   <!--  <img src="https://github-readme-stats.vercel.app/api?username=paudpr&count_private=true&show_icons=true&theme=dark"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paudpr&layout=compact&exclude_repo=ft_server&langs_count=13&theme=dark"/>
 </div>
 
