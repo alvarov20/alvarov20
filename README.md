@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hi there, I'm Alvaro 👋 width="20"> </h1>
+<h1 align="center"> Hi there, I'm Alvaro 👋 <width="20"> </h1>
 
 - 🌍 Based in Madrid, Spain.
 
